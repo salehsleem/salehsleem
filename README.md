@@ -1,7 +1,8 @@
 <h1 align="center"> 👋 Hi, I'm Saleh Sleem </h1>
 <div align="center">
   <img src="https://github.com/SalehSleem/SalehSleem/blob/master/images/header.gif" alt="header"/>
-</div>
+</div><img width="1920" height="1080" alt="frontend" src="https://github.com/user-attachments/assets/8bbb6ba1-8f0b-414f-82b3-3c56b43115a5" />
+
 <p align="center">🚀 Front-End Developer | React.js Specialist <br> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
