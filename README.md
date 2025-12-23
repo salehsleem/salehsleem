@@ -6,9 +6,15 @@
 
 <p align="center">🚀 Front-End Developer | React.js Specialist <br> (Open for Hiring)</p>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
-  <samp>A passionate Front-End Developer with a strong focus on building interactive, responsive, and user-centric web applications. I specialize in the React ecosystem, leveraging TypeScript and Redux to create scalable and maintainable codebases. My primary environment is <b>Visual Studio Code</b>, where I transform complex problems into elegant digital solutions.
+  <samp>
+    I'm <b>Saleh Sleem</b>, a dedicated <b>Front-End Developer</b>. I build high-performance web apps 
+    using <b>React.js</b>, <b>TypeScript</b>, and <b>Redux</b>. With a solid foundation in 
+    <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, and <b>Java</b>, I bridge the gap between design and functionality. 
+    I specialize in <b>Context API</b>, <b>APIs</b>, <b>SCSS</b>, and <b>React Hooks</b>, 
+    while leveraging <b>Bootstrap</b> and <b>jQuery</b> to create responsive experiences, 
+    all crafted with love in <b>Visual Studio Code</b>.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Saleh-Sleem&color=blue" alt="Saleh Sleem" />
